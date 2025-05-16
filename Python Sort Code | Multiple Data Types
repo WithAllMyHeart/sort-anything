@@ -1,0 +1,2 @@
+#Python syntax to sort numerically and alphanumerically in sequence using multiple data types
+print(sorted(str(name)+"text"))
